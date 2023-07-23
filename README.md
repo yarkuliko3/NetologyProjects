@@ -1,6 +1,6 @@
 This is the first task in Netology.DevOPs course: «Введение в DevOps»
 Task 1:
-  (https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-53-58.png)
+  (img/Screenshot%20from%202023-07-24%2000-53-58.png)
 
   file:///home/user_y/Netology.Linux/NetologyProjects/Screenshot%20from%202023-07-24%2000-54-47.png 
 
