@@ -1,11 +1,13 @@
 This is the first task in Netology.DevOPs course: «Введение в DevOps»
 Task 1:
-* Jsonnet :  ![Jsonnet]: (img/Screenshot%20from%202023-07-24%2000-53-58.png)
+* Jsonnet :  <img src = "https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-53-58.png?raw=true"/>
 
-  file:///home/user_y/Netology.Linux/NetologyProjects/Screenshot%20from%202023-07-24%2000-54-47.png 
+* Markdown : <img src= "https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-54-47.png?raw=true"/> 
 
-  file:///home/user_y/Netology.Linux/NetologyProjects/Screenshot%20from%202023-07-24%2000-54-59.png 
+* Bash :   <img src= "https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-54-59.png?raw=true"/> 
 
-  file:///home/user_y/Netology.Linux/NetologyProjects/Screenshot%20from%202023-07-24%2000-55-09.png  
+* Terraform : <img src= "https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-55-09.png?raw=true"/> 
 
-  file:///home/user_y/Netology.Linux/NetologyProjects/Screenshot%20from%202023-07-24%2000-55-20.png 
+* YAML : <img src= "https://github.com/yarkuliko3/NetologyProjects/blob/master/img/Screenshot%20from%202023-07-24%2000-55-20.png?raw=true"/>"
+
+ 
